@@ -27,7 +27,9 @@ The script outputs the expected value, standard deviation, percentiles, and prob
 To run this simulation, ensure you have Python and NumPy installed. Execute the script using your preferred Python environment. The script will output statistical summaries and a histogram of the profit distribution.
 
 ## Acknowledgments
-This project was inspired by and adapted from a series of educational videos on Monte Carlo Simulation by StatQuest with Josh Starmer. The concepts and examples provided in these videos were instrumental in developing this simulation. Special thanks to Josh Starmer for the clear and insightful explanations that made this project possible.
+This project was inspired by and adapted from a series of educational videos on Monte Carlo Simulation by StatQuest with Josh Starmer. 
+https://www.youtube.com/playlist?list=PLDU1w44nwfPMAtwTo2q08oQmd5fDAXaK8
+The concepts and examples provided in these videos were instrumental in developing this simulation. Special thanks to Josh Starmer for the clear and insightful explanations that made this project possible.
 
 ## License
 This project is open source and available under the MIT License.
